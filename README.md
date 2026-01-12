@@ -32,7 +32,7 @@ A modern, responsive admin dashboard built with Next.js, Material-UI, and Zustan
 
 ```bash
 # Clone the repository
-git clone https://github.com/salonigupta1629/
+git clone https://github.com/salonigupta1629/internship-project.git
 cd internship-project
 
 # Install dependencies
